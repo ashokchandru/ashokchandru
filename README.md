@@ -2,7 +2,6 @@
 
 Welcome to my Github Repo
 
-Here are some ideas to get you started:
 
 - 🔭 I’m technical writer ...
 - 🌲 I write technical and API documentation.
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
   
 - ⚡ Fun fact: ...
 REST APIs were originally designed to be stateless, yet we added sessions, cookies, and JWTs to make them stateful again. 
+
+My published research work:
+https://doi.org/10.5281/zenodo.17610442
