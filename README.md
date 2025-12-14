@@ -17,13 +17,13 @@ REST APIs were originally designed to be stateless, yet we added sessions, cooki
 
 Aside from writing, here’s something I built:
 
-* https://mkdn.org/  
+* https://mkdn.org/  <br>
 Online Markdown text editor with built-in preview and HTML export
 
 * https://restapi.design/ <br>
 Reference guide for REST API designers
 
-* https://gitpush.info/
+* https://gitpush.info/  <br>
 A quick start guide to start working on git workflow
 
 * https://www.xp2.org/ <br>
