@@ -17,7 +17,7 @@ REST APIs were originally designed to be stateless, yet we added sessions, cooki
 
 Aside from writing, here’s something I built:
 
-* https://mkdn.org/
+* https://mkdn.org/  
 Online Markdown text editor with built-in preview and HTML export
 
 * https://restapi.design/ <br>
