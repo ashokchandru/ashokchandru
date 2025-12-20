@@ -3,12 +3,12 @@
 Welcome to my Github Repo
 
 
-- 🔭 I’m technical writer ...
-- 🌲 I write API and product documentation.
+- 🔭 I’m a technical writer ...
+- 🌲 I write developer and product documentation.
 - 🌱 I’ve worked for Oracle, HPE, Symantec, and SonicWall.
 - 👯 I’m looking to collaborate on topics related to technical writing, cybersecurity, and Artificial Intelligence.
 - 🙂 I can help you with Technical Documentation and academic research.
-- 💬 Ask me about Content Management Systems, API documentation, Prompt Engineering, and advantages of local LLMs and RAG systems
+- 💬 Ask me about Content Management Systems, API documentation, Prompt Engineering, and advantages of local LLMs and RAG systems.
 
 - 📫 How to reach me: : You can reach me at ashokchandru@gmail.com | https://ashokchandru.com
   
